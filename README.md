@@ -11,14 +11,22 @@ Ce projet vise à générer un grand nombre de variations de données à partir 
 
 L'objectif de ce projet est de créer un dataset d'apprentissage suffisamment riche et varié pour permettre à un modèle d'IA de mieux comprendre et d'extraire des informations pertinentes à partir de CV au format JSON.
 
-```
+```bash
  CV
+  │   
   └── Extraction en JSON
-               └── Importation de la data
-                               └── création des questions types
-                                      avec reponses associées
-                                                  └── génération des variations
-                                                                  └── Exportation en JSON
+             │   
+             │
+    Importation de la data
+             │
+             └── création des questions types
+                   avec reponses associées
+                              │   
+                              │
+  génération des variations ──┘
+             │   
+             │
+     Exportation en JSON
 ```
 
 ## Conclusion
