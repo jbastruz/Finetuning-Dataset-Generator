@@ -1,0 +1,196 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Quelle est ma nationalit\u00e9?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu es de nationalit\u00e9 fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est ma nationnalit\u00e9?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 est fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "A quelle nationalit\u00e9 est-ce que j'appartiens?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu appartiens \u00e0 la nationalit\u00e9 fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est mon origine au niveau de la nationalit\u00e9?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 d'origine est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quel est mon statut en termes de nationalit\u00e9?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu es de nationalit\u00e9 fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "En termes de nationalit\u00e9, qui suis-je?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu es fran\u00e7ais."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est la nationalit\u00e9 associ\u00e9e \u00e0 ma personne?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est ma nationalit\u00e9 actuelle?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 actuelle est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est la nationalit\u00e9 \u00e0 laquelle j'appartiens?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu appartiens \u00e0 la nationalit\u00e9 fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est la nationalit\u00e9 dans laquelle je suis n\u00e9?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu es n\u00e9 avec la nationalit\u00e9 fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est la nationalit\u00e9 que j'ai?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est ma nationalit\u00e9 d'\u00e9tat civil?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 d'\u00e9tat civil est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est la nationalit\u00e9 que je repr\u00e9sente?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu repr\u00e9sentes la nationalit\u00e9 fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est la nationalit\u00e9 qui m'identifie?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est ma nationalit\u00e9 l\u00e9gale?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 l\u00e9gale est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est la nationalit\u00e9 qui me concerne?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est la nationalit\u00e9 qui me d\u00e9finit?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est ma nationalit\u00e9 culturelle?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 culturelle est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est la nationalit\u00e9 qui m'est attribu\u00e9e?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 est attribu\u00e9e fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est la nationalit\u00e9 qui est mienne?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est la nationalit\u00e9 qui me caract\u00e9rise?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est la nationalit\u00e9 qui m'est propre?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est ma nationalit\u00e9 personnelle?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta nationalit\u00e9 personnelle est la fran\u00e7aise."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est la nationalit\u00e9 qui m'est attribu\u00e9e \u00e0 ma naissance?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu es n\u00e9 avec la nationalit\u00e9 fran\u00e7aise."
+        }
+    ]
+}

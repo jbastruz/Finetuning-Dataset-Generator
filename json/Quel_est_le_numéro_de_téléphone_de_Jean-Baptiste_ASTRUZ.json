@@ -1,0 +1,204 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Quel est le num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux me joindre au +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me fournir le num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Bien s\u00fbr, vous pouvez le joindre au +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Comment puis-je contacter Jean-Baptiste ASTRUZ par t\u00e9l\u00e9phone?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous pouvez l'appeler au +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Quel est le num\u00e9ro de portable de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Son num\u00e9ro de portable est le +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Pouvons-nous joindre Jean-Baptiste ASTRUZ au +33 6 30 58 41 03?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, ce num\u00e9ro vous permettra de le joindre."
+        },
+        {
+            "role": "user",
+            "content": "Je cherche le num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ, le savez-vous?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, il s'agit du +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que vous pourriez m'indiquer le num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Avec plaisir, le voici : +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Je voudrais savoir, si possible, quel est le num\u00e9ro de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Bien s\u00fbr, son num\u00e9ro est le +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Je recherche le num\u00e9ro de mobile de Jean-Baptiste ASTRUZ, est-ce que vous l'avez?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, son num\u00e9ro de mobile est le +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que vous connaissez le num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ pour que je puisse l'appeler?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ est joignable au +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Pourrais-je avoir le num\u00e9ro de t\u00e9l\u00e9phone de mon coll\u00e8gue Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Voici son num\u00e9ro : +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Je suis \u00e0 la recherche du num\u00e9ro de portable de Jean-Baptiste ASTRUZ, pouvez-vous m'aider?"
+        },
+        {
+            "role": "assistant",
+            "content": "Le num\u00e9ro de portable de Jean-Baptiste ASTRUZ est le +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Je souhaiterais contacter Jean-Baptiste ASTRUZ par t\u00e9l\u00e9phone, savez-vous comment faire?"
+        },
+        {
+            "role": "assistant",
+            "content": "Bien s\u00fbr, vous pouvez le joindre au +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que vous connaissez le num\u00e9ro de Jean-Baptiste ASTRUZ pour que je puisse l'appeler sur son portable?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, son num\u00e9ro de portable est le +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Je voudrais joindre Jean-Baptiste ASTRUZ, pouvez-vous me donner son num\u00e9ro?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ est joignable au +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Je suis \u00e0 la recherche du num\u00e9ro de t\u00e9l\u00e9phone de mon coll\u00e8gue Jean-Baptiste ASTRUZ, pourrais-je l'avoir?"
+        },
+        {
+            "role": "assistant",
+            "content": "Bien s\u00fbr, son num\u00e9ro est le +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Je cherche le num\u00e9ro de portable de Jean-Baptiste ASTRUZ, est-ce que vous pouvez me l'indiquer?"
+        },
+        {
+            "role": "assistant",
+            "content": "Le num\u00e9ro de portable de Jean-Baptiste ASTRUZ est le +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Je voudrais savoir quel est le num\u00e9ro de Jean-Baptiste ASTRUZ pour le contacter?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ est joignable au +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Pourrais-je avoir le num\u00e9ro de t\u00e9l\u00e9phone de mon coll\u00e8gue Jean-Baptiste ASTRUZ pour l'appeler?"
+        },
+        {
+            "role": "assistant",
+            "content": "Voici son num\u00e9ro : +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Je recherche le num\u00e9ro de portable de Jean-Baptiste ASTRUZ, est-ce que vous pouvez me l' Fournir s'il vous pla\u00eet?"
+        },
+        {
+            "role": "assistant",
+            "content": "Bien s\u00fbr, le num\u00e9ro de portable de Jean-Baptiste ASTRUZ est le +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Je suis \u00e0 la recherche du num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ, est-ce que vous pouvez me l'aider \u00e0 trouver?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, son num\u00e9ro est le +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Je voudrais contacter Jean-Baptiste ASTRUZ par t\u00e9l\u00e9phone, pouvez-vous m'aider?"
+        },
+        {
+            "role": "assistant",
+            "content": "Bien s\u00fbr, vous pouvez l'appeler au +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que vous connaissez le num\u00e9ro de portable de Jean-Baptiste ASTRUZ pour que je puisse le joindre?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, son num\u00e9ro de portable est le +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Je cherche le num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ, est-ce que vous pouvez me l'indiquer?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ est joignable au +33 6 30 58 41 03."
+        },
+        {
+            "role": "user",
+            "content": "Je voudrais savoir quel est le num\u00e9ro de portable de Jean-Baptiste ASTRUZ pour le joindre?"
+        },
+        {
+            "role": "assistant",
+            "content": "Le num\u00e9ro de portable de Jean-Baptiste ASTRUZ est le +33 6 30 58 41 03."
+        }
+    ]
+}

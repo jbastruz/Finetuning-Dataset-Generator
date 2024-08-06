@@ -1,0 +1,196 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Quel est l'endroit o\u00f9 r\u00e9side Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 peut-on trouver Jean-Baptiste ASTRUZ qui demeure?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous pouvez trouver Jean-Baptiste ASTRUZ \u00e0 son domicile situ\u00e9 au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "Jean-Baptiste ASTRUZ habite o\u00f9?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 se situe la r\u00e9sidence de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "La r\u00e9sidence de Jean-Baptiste ASTRUZ se trouve au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me dire o\u00f9 loge Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Bien s\u00fbr, Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "Jean-Baptiste ASTRUZ est-il domicili\u00e9 au Chemin des Plantaz 38, 1260 Nyon, Suisse?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, c'est exact."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 est situ\u00e9 le domicile de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Le domicile de Jean-Baptiste ASTRUZ est au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me donner l'adresse de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "Quel est l'emplacement de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ se trouve \u00e0 son domicile situ\u00e9 au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "Jean-Baptiste ASTRUZ habite-t-il au Chemin des Plantaz 38, 1260 Nyon, Suisse?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, c'est effectivement son adresse."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 peut-on trouver Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ r\u00e9side au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me confirmer l'adresse de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ habite bien au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "Jean-Baptiste ASTRUZ est localis\u00e9 o\u00f9?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ est localis\u00e9 \u00e0 son domicile situ\u00e9 au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 se trouve le lieu de r\u00e9sidence de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Le lieu de r\u00e9sidence de Jean-Baptiste ASTRUZ est au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me pr\u00e9ciser l'adresse de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 demeure Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ demeure au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "Jean-Baptiste ASTRUZ est domicili\u00e9 o\u00f9?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ est domicili\u00e9 au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me donner les coordonn\u00e9es de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Les coordonn\u00e9es de Jean-Baptiste ASTRUZ sont au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 habite Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me confirmer l'adresse suivante pour Jean-Baptiste ASTRUZ: Chemin des Plantaz 38, 1260 Nyon, Suisse?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, c'est correct. Jean-Baptiste ASTRUZ habite bien \u00e0 cette adresse."
+        },
+        {
+            "role": "user",
+            "content": "Jean-Baptiste ASTRUZ est-il domicili\u00e9 \u00e0 Chemin des Plantaz 38, 1260 Nyon, Suisse?"
+        },
+        {
+            "role": "assistant",
+            "content": "C'est exact, Jean-Baptiste ASTRUZ est domicili\u00e9 \u00e0 cette adresse."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me confirmer que Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, Jean-Baptiste ASTRUZ habite bien au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 se situe mon ami Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Votre ami Jean-Baptiste ASTRUZ se situe au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me confirmer que mon ami Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre ami Jean-Baptiste ASTRUZ habite bien au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+        }
+    ]
+}

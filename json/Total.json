@@ -1,0 +1,2437 @@
+[
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Quel est mon niveau r\u00e9el en Fran\u00e7ais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre niveau de Fran\u00e7ais est natif, vous le ma\u00eetrisez parfaitement."
+            },
+            {
+                "role": "user",
+                "content": "Comment qualifierais-tu ma comp\u00e9tence en Fran\u00e7ais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre comp\u00e9tence en Fran\u00e7ais est native, c'est-\u00e0-dire que vous parlez couramment et sans accent."
+            },
+            {
+                "role": "user",
+                "content": "\u00c0 quel point suis-je bon en Fran\u00e7ais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre niveau en Fran\u00e7ais est excellent, \u00e0 un niveau natif."
+            },
+            {
+                "role": "user",
+                "content": "Mon niveau de ma\u00eetrise du Fran\u00e7ais est..."
+            },
+            {
+                "role": "assistant",
+                "content": "Votre niveau de ma\u00eetrise du Fran\u00e7ais est natif, vous l'utilisez avec aisance et fluidit\u00e9."
+            },
+            {
+                "role": "user",
+                "content": "Comment est mon niveau actuel en Fran\u00e7ais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre niveau actuel en Fran\u00e7ais est natif, vous \u00eates capable de l'utiliser dans toutes les situations de la vie quotidienne et professionnelle."
+            },
+            {
+                "role": "user",
+                "content": "Quel est mon degr\u00e9 de connaissance du Fran\u00e7ais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre degr\u00e9 de connaissance du Fran\u00e7ais est natif, vous \u00eates capable de l'utiliser avec une grande aisance et pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que je parle bien le Fran\u00e7ais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, vous parlez le Fran\u00e7ais de mani\u00e8re native, c'est-\u00e0-dire avec une grande fluidit\u00e9 et une grande pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est \u00e0 un niveau avanc\u00e9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est \u00e0 un niveau sup\u00e9rieur \u00e0 l'avanc\u00e9, il est natif."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon niveau de Fran\u00e7ais est suffisant?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau de Fran\u00e7ais est plus que suffisant, il est natif, ce qui signifie que vous le ma\u00eetrisez parfaitement."
+            },
+            {
+                "role": "user",
+                "content": "Comment puis-je d\u00e9crire mon niveau de Fran\u00e7ais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous pouvez d\u00e9crire votre niveau de Fran\u00e7ais comme \u00e9tant natif, ce qui signifie que vous l'utilisez avec une grande aisance et fluidit\u00e9."
+            },
+            {
+                "role": "user",
+                "content": "Quel est mon niveau de comp\u00e9tence en Fran\u00e7ais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre niveau de comp\u00e9tence en Fran\u00e7ais est natif, vous \u00eates capable de l'utiliser avec une grande pr\u00e9cision et une grande aisance."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est courant?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est courant, vous l'utilisez avec une grande fluidit\u00e9 et une grande pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est professionnel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est non seulement professionnel, mais il est aussi natif, ce qui signifie que vous \u00eates capable de l'utiliser dans toutes les situations, y compris les plus formelles."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est bon?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est excellent, il est m\u00eame natif, ce qui signifie que vous le ma\u00eetrisez parfaitement."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est parfait?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est parfait, il est natif, ce qui signifie que vous l'utilisez avec une grande aisance et une grande pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est fluide?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est tr\u00e8s fluide, il est m\u00eame natif, ce qui signifie que vous l'utilisez avec une grande aisance et une grande pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est naturel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est tr\u00e8s naturel, il est m\u00eame natif, ce qui signifie que vous l'utilisez avec une grande aisance et une grande pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est id\u00e9al?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est id\u00e9al, il est m\u00eame natif, ce qui signifie que vous l'utilisez avec une grande aisance et une grande pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est sup\u00e9rieur?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est sup\u00e9rieur, il est m\u00eame natif, ce qui signifie que vous l'utilisez avec une grande aisance et une grande pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est excellent?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est excellent, il est m\u00eame natif, ce qui signifie que vous l'utilisez avec une grande aisance et une grande pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est remarquable?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est remarquable, il est m\u00eame natif, ce qui signifie que vous l'utilisez avec une grande aisance et une grande pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est superbe?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est superbe, il est m\u00eame natif, ce qui signifie que vous l'utilisez avec une grande aisance et une grande pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est superlatif?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est superlatif, il est m\u00eame natif, ce qui signifie que vous l'utilisez avec une grande aisance et une grande pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est au top?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est au top, il est m\u00eame natif, ce qui signifie que vous l'utilisez avec une grande aisance et une grande pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est parfaitement fluide?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est parfaitement fluide, il est m\u00eame natif, ce qui signifie que vous l'utilisez avec une grande aisance et une grande pr\u00e9cision."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon Fran\u00e7ais est irr\u00e9prochable?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre Fran\u00e7ais est irr\u00e9prochable, il est m\u00eame natif, ce qui signifie que vous l'utilisez avec une grande aisance et une grande pr\u00e9cision."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Quel est mon niveau d'anglais personnel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre niveau d'anglais est professionnel."
+            },
+            {
+                "role": "user",
+                "content": "Comment qualifierais-je mon niveau d'anglais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous pourriez d\u00e9crire votre niveau d'anglais comme professionnel."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est mon expertise en anglais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre expertise en anglais peut \u00eatre qualifi\u00e9e de professionnelle."
+            },
+            {
+                "role": "user",
+                "content": "Comment d\u00e9crirais-tu ma ma\u00eetrise de l'anglais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Je d\u00e9crirais votre ma\u00eetrise de l'anglais comme professionnelle."
+            },
+            {
+                "role": "user",
+                "content": "\u00c0 quel niveau se situe mon anglais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre anglais se situe \u00e0 un niveau professionnel."
+            },
+            {
+                "role": "user",
+                "content": "Mon anglais est-il de haut niveau?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui est consid\u00e9r\u00e9 comme un niveau \u00e9lev\u00e9."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que je parle bien l'anglais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, vous parlez tr\u00e8s bien l'anglais, \u00e0 un niveau professionnel."
+            },
+            {
+                "role": "user",
+                "content": "Mon anglais est-il suffisamment bon pour un environnement professionnel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Absolument, votre niveau d'anglais est professionnel, ce qui est appropri\u00e9 pour un environnement de travail."
+            },
+            {
+                "role": "user",
+                "content": "Puis-je me consid\u00e9rer comme un anglophone professionnel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, vous pouvez vous consid\u00e9rer comme un anglophone professionnel."
+            },
+            {
+                "role": "user",
+                "content": "Mon niveau d'anglais conviendrait-il dans un contexte professionnel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui est id\u00e9al pour un contexte professionnel."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon anglais est au point pour un milieu professionnel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui est parfaitement adapt\u00e9 \u00e0 un milieu professionnel."
+            },
+            {
+                "role": "user",
+                "content": "Mon anglais est-il \u00e0 la hauteur des exigences professionnelles?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui r\u00e9pond aux exigences d'un environnement professionnel."
+            },
+            {
+                "role": "user",
+                "content": "Suis-je qualifi\u00e9 pour travailler en anglais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, avec votre niveau d'anglais professionnel, vous \u00eates qualifi\u00e9 pour travailler en anglais."
+            },
+            {
+                "role": "user",
+                "content": "Mon niveau d'anglais est-il ad\u00e9quat pour les affaires?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui est appropri\u00e9 pour les affaires."
+            },
+            {
+                "role": "user",
+                "content": "Puis-je me d\u00e9brouiller dans un environnement anglophone professionnel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, vous pouvez certainement vous d\u00e9brouiller dans un environnement anglophone professionnel gr\u00e2ce \u00e0 votre niveau d'anglais professionnel."
+            },
+            {
+                "role": "user",
+                "content": "Mon niveau d'anglais est-il suffisant pour une communication professionnelle?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui est suffisant pour une communication professionnelle efficace."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon anglais est assez bon pour un poste professionnel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui est appropri\u00e9 pour un poste professionnel."
+            },
+            {
+                "role": "user",
+                "content": "Mon niveau d'anglais me permettrait-il de travailler dans un contexte international?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui est souvent la langue de communication dans un contexte international."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon anglais est assez avanc\u00e9 pour un emploi?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui est un niveau avanc\u00e9 et appropri\u00e9 pour un emploi."
+            },
+            {
+                "role": "user",
+                "content": "Mon niveau d'anglais est-il convenable pour une carri\u00e8re?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui est un niveau convenable pour une carri\u00e8re."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon anglais est assez bon pour travailler dans une entreprise?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui est un niveau appropri\u00e9 pour travailler dans une entreprise."
+            },
+            {
+                "role": "user",
+                "content": "Mon niveau d'anglais me permettrait-il de travailler dans le business?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui est un niveau appropri\u00e9 pour travailler dans le business."
+            },
+            {
+                "role": "user",
+                "content": "Mon niveau d'anglais est-il suffisant pour les affaires internationales?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui est souvent la langue de communication dans les affaires internationales."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que mon anglais est assez bon pour un poste dans une entreprise?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre niveau d'anglais est professionnel, ce qui est un niveau appropri\u00e9 pour un poste dans une entreprise."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Combien de langues est-ce que je ma\u00eetrise moi?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous parlez 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Quel est le nombre de langues dans mon r\u00e9pertoire?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous avez une connaissance fonctionnelle de 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me dire combien de langues je pratique?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous pratiquez 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que vous savez combien de langues je communique?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous communiquez couramment en 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Combien de langues puis-je utiliser?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates capable d'utiliser 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Quel est le total de langues que j'ai dans mon bagage linguistique?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous avez une comp\u00e9tence de 2 langues dans votre bagage linguistique."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous estimer le nombre de langues que je ma\u00eetrise?"
+            },
+            {
+                "role": "assistant",
+                "content": "Je estime que vous ma\u00eetrisez 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Dites-moi combien de langues je parle, s'il vous pla\u00eet."
+            },
+            {
+                "role": "assistant",
+                "content": "Vous parlez 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me dire le nombre de langues que j'ai \u00e9tudi\u00e9es?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous avez \u00e9tudi\u00e9 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Quel est le nombre de langues que j'utilise activement?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous utilisez activement 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Combien de langues puis-je \u00e9changer?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous pouvez \u00e9changer dans 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que vous pouvez me dire le nombre de langues que je connais?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous connaissez 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous d\u00e9terminer combien de langues je pratique \u00e0 un niveau fonctionnel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous pratiquez 2 langues \u00e0 un niveau fonctionnel."
+            },
+            {
+                "role": "user",
+                "content": "Combien de langues puis-je utiliser confortablement?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates capable d'utiliser 2 langues confortablement."
+            },
+            {
+                "role": "user",
+                "content": "Quel est le nombre de langues que j'ai incluses dans mon r\u00e9pertoire linguistique?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous avez inclus 2 langues dans votre r\u00e9pertoire linguistique."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me dire le nombre de langues que j'ai apprises?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous avez appris 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Combien de langues puis-je m'engager dans une conversation?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous pouvez vous engager dans une conversation dans 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que vous pouvez me dire combien de langues je suis capable de parler?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates capable de parler 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous \u00e9valuer le nombre de langues que j'ai dans mon r\u00e9pertoire?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous avez 2 langues dans votre r\u00e9pertoire."
+            },
+            {
+                "role": "user",
+                "content": "Combien de langues puis-je utiliser dans la vie de tous les jours?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous pouvez utiliser 2 langues dans la vie de tous les jours."
+            },
+            {
+                "role": "user",
+                "content": "Quel est le nombre de langues que j'ai acquises?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous avez acquis 2 langues."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me dire le nombre de langues que j'ai dans mon usage?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous utilisez 2 langues."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Quelle langue est-ce que je parle moi-m\u00eame?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous parlez 2 langues, dont le fran\u00e7ais et l'anglais."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai l'habitude de parler?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous utilisez r\u00e9guli\u00e8rement 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais."
+            },
+            {
+                "role": "user",
+                "content": "Lequel de ces deux langages est parl\u00e9 par moi?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous avez la capacit\u00e9 de communiquer dans deux langues : le fran\u00e7ais et l'anglais."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que je ma\u00eetrise en tant que locuteur?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates capable de converser dans 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la facult\u00e9 de parler?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous poss\u00e9dez la capacit\u00e9 de communiquer dans 2 langues : le fran\u00e7ais et l'anglais."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'utilise pour m'exprimer?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous employez couramment 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai l'aptitude \u00e0 manier?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates capable de converser dans 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la comp\u00e9tence de parler?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous ma\u00eetrisez 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la capacit\u00e9 de manier?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates capable de communiquer dans 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la facult\u00e9 d'utiliser?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates en mesure de converser dans 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la possibilit\u00e9 de ma\u00eetriser?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous poss\u00e9dez la capacit\u00e9 de communiquer dans 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la capacit\u00e9 de g\u00e9rer?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates capable de converser dans 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la facult\u00e9 de contr\u00f4ler?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates en mesure de communiquer dans 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la capacit\u00e9 de parler correctement?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous ma\u00eetrisez 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais, avec aisance."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la facult\u00e9 de manier avec comp\u00e9tence?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates capable de converser dans 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais, avec habilet\u00e9."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la capacit\u00e9 de g\u00e9rer avec expertise?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates en mesure de communiquer dans 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais, avec doigt\u00e9."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la facult\u00e9 de ma\u00eetriser avec adresse?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous poss\u00e9dez la capacit\u00e9 de converser dans 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais, avec dext\u00e9rit\u00e9."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la capacit\u00e9 de parler avec aisance?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates comp\u00e9tent pour communiquer dans 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais, avec facilit\u00e9."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la facult\u00e9 de manier avec facilit\u00e9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates capable de converser dans 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais, avec aisance."
+            },
+            {
+                "role": "user",
+                "content": "Quelles sont les langues que j'ai la capacit\u00e9 de g\u00e9rer avec facilit\u00e9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous \u00eates en mesure de communiquer dans 2 langues, \u00e0 savoir le fran\u00e7ais et l'anglais, avec facilit\u00e9."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Combien de postes ai-je occup\u00e9 dans le pass\u00e9 ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous avez occup\u00e9 un total de 9 postes diff\u00e9rents au fil de votre carri\u00e8re."
+            },
+            {
+                "role": "user",
+                "content": "Quel est le nombre de postes que j'ai eus pr\u00e9c\u00e9demment ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Durant votre parcours professionnel, vous avez eu 9 emplois distincts."
+            },
+            {
+                "role": "user",
+                "content": "Combien de positions ai-je tenues dans le pass\u00e9 ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours de votre carri\u00e8re, vous avez assur\u00e9 un total de 9 fonctions diff\u00e9rentes."
+            },
+            {
+                "role": "user",
+                "content": "Quel a \u00e9t\u00e9 le nombre de mes postes ant\u00e9rieurs ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous avez exerc\u00e9 9 professions diff\u00e9rentes au cours de votre carri\u00e8re."
+            },
+            {
+                "role": "user",
+                "content": "Je souhaiterais savoir combien de postes j'ai occup\u00e9s auparavant ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au total, vous avez eu 9 exp\u00e9riences professionnelles distinctes dans le pass\u00e9."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me dire combien de fonctions j'ai eues dans le pass\u00e9 ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous avez assur\u00e9 9 r\u00f4les diff\u00e9rents au cours de votre carri\u00e8re."
+            },
+            {
+                "role": "user",
+                "content": "Combien y a-t-il de postes que j'ai occup\u00e9s au pr\u00e9alable ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Avant maintenant, vous avez eu 9 postes diff\u00e9rents au cours de votre carri\u00e8re."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me pr\u00e9ciser le nombre de postes que j'ai occup\u00e9s au fil des ann\u00e9es ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours des ann\u00e9es, vous avez occup\u00e9 9 postes diff\u00e9rents."
+            },
+            {
+                "role": "user",
+                "content": "Je voudrais savoir combien de postes j'ai eus dans le pass\u00e9.",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous avez eu 9 postes diff\u00e9rents au cours de votre carri\u00e8re."
+            },
+            {
+                "role": "user",
+                "content": "Quel est le d\u00e9compte des postes que j'ai occup\u00e9s auparavant ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous avez occup\u00e9 9 postes diff\u00e9rents dans le pass\u00e9."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me dire combien de fonctions j'ai exerc\u00e9es dans ma vie professionnelle ant\u00e9rieure ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours de votre carri\u00e8re ant\u00e9rieure, vous avez exerc\u00e9 9 fonctions diff\u00e9rentes."
+            },
+            {
+                "role": "user",
+                "content": "Combien de postes ai-je occup\u00e9 depuis le d\u00e9but de ma carri\u00e8re ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Depuis le d\u00e9but de votre carri\u00e8re, vous avez occup\u00e9 9 postes diff\u00e9rents."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me dire combien de positions j'ai eues dans mon pass\u00e9 professionnel ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours de votre pass\u00e9 professionnel, vous avez occup\u00e9 9 positions diff\u00e9rentes."
+            },
+            {
+                "role": "user",
+                "content": "Combien de r\u00f4les ai-je eus dans le pass\u00e9 ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours de votre pass\u00e9, vous avez assur\u00e9 9 r\u00f4les diff\u00e9rents."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me dire combien de carri\u00e8res j'ai eues ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours de votre vie, vous avez eu 9 carri\u00e8res diff\u00e9rentes."
+            },
+            {
+                "role": "user",
+                "content": "Combien de carri\u00e8res ai-je travers\u00e9es ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours de votre vie, vous avez travers\u00e9 9 carri\u00e8res diff\u00e9rentes."
+            },
+            {
+                "role": "user",
+                "content": "Combien de postes ai-je chang\u00e9s dans ma carri\u00e8re ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours de votre carri\u00e8re, vous avez chang\u00e9 8 fois de poste."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me dire combien de transitions de poste j'ai eues dans ma carri\u00e8re ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours de votre carri\u00e8re, vous avez eu 8 transitions de poste."
+            },
+            {
+                "role": "user",
+                "content": "Combien de fois ai-je chang\u00e9 de fonction dans ma carri\u00e8re ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours de votre carri\u00e8re, vous avez chang\u00e9 8 fois de fonction."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me dire combien de fois j'ai chang\u00e9 d'emploi dans le pass\u00e9 ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours de votre pass\u00e9, vous avez chang\u00e9 d'emploi 8 fois."
+            },
+            {
+                "role": "user",
+                "content": "Combien de fois ai-je chang\u00e9 de travail dans ma carri\u00e8re ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours de votre carri\u00e8re, vous avez chang\u00e9 8 fois de travail."
+            },
+            {
+                "role": "user",
+                "content": "Combien de fois ai-je chang\u00e9 de r\u00f4le dans ma carri\u00e8re ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours de votre carri\u00e8re, vous avez chang\u00e9 8 fois de r\u00f4le."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me dire combien de fois j'ai chang\u00e9 de position dans ma carri\u00e8re ?",
+                "added_flair": "none"
+            },
+            {
+                "role": "assistant",
+                "content": "Au cours de votre carri\u00e8re, vous avez chang\u00e9 8 fois de position."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Quelle a \u00e9t\u00e9 ma derni\u00e8re fonction en milieu professionnel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre derni\u00e8re exp\u00e9rience professionnelle \u00e9tait en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me parler de mon poste r\u00e9cent?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, vous avez r\u00e9cemment travaill\u00e9 en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "De quoi ma derni\u00e8re activit\u00e9 professionnelle consistait-elle?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre derni\u00e8re activit\u00e9 professionnelle consistait \u00e0 travailler en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 ai-je travaill\u00e9 pour la derni\u00e8re fois?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre derni\u00e8re exp\u00e9rience professionnelle \u00e9tait chez EXSOLVAE en tant que Data Scientist / Data Analyst."
+            },
+            {
+                "role": "user",
+                "content": "Quel \u00e9tait mon r\u00f4le dans mon travail le plus r\u00e9cent?"
+            },
+            {
+                "role": "assistant",
+                "content": "Dans votre dernier emploi chez EXSOLVAE, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 ai-je exerc\u00e9 mon dernier m\u00e9tier?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre derni\u00e8re profession de Data Scientist / Data Analyst a \u00e9t\u00e9 exerc\u00e9e chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "Quel a \u00e9t\u00e9 le contexte de ma derni\u00e8re mission professionnelle?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre derni\u00e8re mission professionnelle, en tant que Data Scientist / Data Analyst, a \u00e9t\u00e9 effectu\u00e9e chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous d\u00e9crire mon poste le plus r\u00e9cent?"
+            },
+            {
+                "role": "assistant",
+                "content": "Dans votre dernier poste chez EXSOLVAE, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst."
+            },
+            {
+                "role": "user",
+                "content": "Quelle a \u00e9t\u00e9 ma position dans mon travail r\u00e9cent?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre derni\u00e8re position professionnelle \u00e9tait Data Scientist / Data Analyst chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 puis-je trouver des informations sur ma derni\u00e8re exp\u00e9rience professionnelle?"
+            },
+            {
+                "role": "assistant",
+                "content": "Des informations sur votre derni\u00e8re exp\u00e9rience professionnelle en tant que Data Scientist / Data Analyst chez EXSOLVAE peuvent \u00eatre trouv\u00e9es sur votre profil ou dans votre CV."
+            },
+            {
+                "role": "user",
+                "content": "Quel \u00e9tait le titre de mon dernier emploi?"
+            },
+            {
+                "role": "assistant",
+                "content": "Le titre de votre dernier emploi \u00e9tait Data Scientist / Data Analyst chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me parler de mon r\u00f4le le plus r\u00e9cent?"
+            },
+            {
+                "role": "assistant",
+                "content": "Dans votre r\u00f4le le plus r\u00e9cent chez EXSOLVAE, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 avais-je travaill\u00e9 avant maintenant?"
+            },
+            {
+                "role": "assistant",
+                "content": "Avant cela, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "Quelle a \u00e9t\u00e9 ma fonction r\u00e9cemment?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre fonction r\u00e9cemment \u00e9tait Data Scientist / Data Analyst chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 avez-vous travaill\u00e9 en dernier?"
+            },
+            {
+                "role": "assistant",
+                "content": "J'ai travaill\u00e9 en dernier lieu en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "Quel \u00e9tait mon emploi pr\u00e9c\u00e9dent?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre emploi pr\u00e9c\u00e9dent \u00e9tait Data Scientist / Data Analyst chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me parler de mon travail pr\u00e9c\u00e9dent?"
+            },
+            {
+                "role": "assistant",
+                "content": "Dans votre travail pr\u00e9c\u00e9dent chez EXSOLVAE, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst."
+            },
+            {
+                "role": "user",
+                "content": "Quel \u00e9tait mon poste avant mon poste actuel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Avant votre poste actuel, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 \u00e9tais-je employ\u00e9 avant?"
+            },
+            {
+                "role": "assistant",
+                "content": "Avant, vous \u00e9tiez employ\u00e9 en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "Quel \u00e9tait mon dernier titre d'emploi?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre dernier titre d'emploi \u00e9tait Data Scientist / Data Analyst chez EXSOLVAE."
+            },
+            {
+                "role": "user",
+                "content": "Quel \u00e9tait mon r\u00f4le avant mon r\u00f4le actuel?"
+            },
+            {
+                "role": "assistant",
+                "content": "Avant votre r\u00f4le actuel, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "O\u00f9 puis-je trouver ton profil LinkedIn, Jean-Baptiste?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux consulter mon profil LinkedIn \u00e0 l'adresse linkedin.com/in/jbastruz."
+            },
+            {
+                "role": "user",
+                "content": "As-tu un lien vers ton compte LinkedIn, moi je le cherche?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, tu peux me trouver sur LinkedIn \u00e0 linkedin.com/in/jbastruz."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste, est-ce que je peux acc\u00e9der \u00e0 ton profil LinkedIn via ce lien : linkedin.com/in/jbastruz?"
+            },
+            {
+                "role": "assistant",
+                "content": "Exactement, linkedin.com/in/jbastruz est l'adresse de mon profil LinkedIn."
+            },
+            {
+                "role": "user",
+                "content": "Mon ami voudrait entrer en contact avec toi sur LinkedIn, quel est l'URL de ton profil?"
+            },
+            {
+                "role": "assistant",
+                "content": "Il peut me contacter via mon profil LinkedIn \u00e0 cette adresse : linkedin.com/in/jbastruz."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste, tu peux partager le lien de ton profil LinkedIn, s'il te pla\u00eet?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, tu peux me trouver sur LinkedIn \u00e0 linkedin.com/in/jbastruz."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 se trouve ton profil LinkedIn que je puisse le visiter?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mon profil LinkedIn est disponible \u00e0 l'adresse linkedin.com/in/jbastruz, n'h\u00e9site pas \u00e0 me contacter."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste, est-ce que tu peux m'indiquer l'URL de ton profil LinkedIn?"
+            },
+            {
+                "role": "assistant",
+                "content": "Certainement, tu peux me trouver sur LinkedIn \u00e0 linkedin.com/in/jbastruz."
+            },
+            {
+                "role": "user",
+                "content": "J'ai besoin d'acc\u00e9der \u00e0 ton profil LinkedIn, voici l'adresse correcte : linkedin.com/in/jbastruz?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, c'est bien l\u00e0 que tu peux me trouver sur LinkedIn."
+            },
+            {
+                "role": "user",
+                "content": "As-tu un lien vers ton compte LinkedIn que je peux consulter?"
+            },
+            {
+                "role": "assistant",
+                "content": "Voici le lien vers mon profil LinkedIn : linkedin.com/in/jbastruz."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste, je cherche ton profil LinkedIn, il se trouve ici : linkedin.com/in/jbastruz?"
+            },
+            {
+                "role": "assistant",
+                "content": "C'est exact, n'h\u00e9site pas \u00e0 me contacter via mon profil LinkedIn."
+            },
+            {
+                "role": "user",
+                "content": "Mon coll\u00e8gue aimerait entrer en contact avec toi sur LinkedIn, quel est ton lien de profil?"
+            },
+            {
+                "role": "assistant",
+                "content": "Il peut me trouver sur LinkedIn \u00e0 cette adresse : linkedin.com/in/jbastruz."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste, tu peux partager le lien de ton profil LinkedIn, s'il te pla\u00eet?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux me trouver sur LinkedIn \u00e0 linkedin.com/in/jbastruz, je serais ravi de te connecter."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 se trouve ton profil LinkedIn que je puisse le visiter?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mon profil LinkedIn est disponible \u00e0 l'adresse linkedin.com/in/jbastruz, n'h\u00e9site pas \u00e0 me contacter."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste, est-ce que tu peux m'indiquer l'URL de ton profil LinkedIn?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, tu peux me trouver sur LinkedIn \u00e0 linkedin.com/in/jbastruz."
+            },
+            {
+                "role": "user",
+                "content": "J'ai besoin d'acc\u00e9der \u00e0 ton profil LinkedIn, voici l'adresse correcte : linkedin.com/in/jbastruz?"
+            },
+            {
+                "role": "assistant",
+                "content": "C'est bien l\u00e0 que tu peux me trouver sur LinkedIn."
+            },
+            {
+                "role": "user",
+                "content": "As-tu un lien vers ton compte LinkedIn que je peux consulter?"
+            },
+            {
+                "role": "assistant",
+                "content": "Voici le lien vers mon profil LinkedIn : linkedin.com/in/jbastruz."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste, je cherche ton profil LinkedIn, il se trouve ici : linkedin.com/in/jbastruz?"
+            },
+            {
+                "role": "assistant",
+                "content": "C'est exact, n'h\u00e9site pas \u00e0 me contacter via mon profil LinkedIn."
+            },
+            {
+                "role": "user",
+                "content": "Mon coll\u00e8gue aimerait entrer en contact avec toi sur LinkedIn, quel est ton lien de profil?"
+            },
+            {
+                "role": "assistant",
+                "content": "Il peut me trouver sur LinkedIn \u00e0 cette adresse : linkedin.com/in/jbastruz."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste, tu peux partager le lien de ton profil LinkedIn, s'il te pla\u00eet?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux me trouver sur LinkedIn \u00e0 linkedin.com/in/jbastruz, je serais ravi de te connecter."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Quelle est l'adresse e-mail de JB ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Comment puis-je envoyer un message \u00e0 Jean-Baptiste ASTRUZ par email?"
+            },
+            {
+                "role": "assistant",
+                "content": "Son adresse email est jbastruz@protonmail.com. N'h\u00e9site pas \u00e0 lui \u00e9crire."
+            },
+            {
+                "role": "user",
+                "content": "Pourriez-vous me transmettre l'email de Jean-Baptiste ASTRUZ s'il vous pla\u00eet?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, vous pouvez le contacter \u00e0 jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que vous pouvez me donner les coordonn\u00e9es \u00e9lectroniques de JB ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ utilise l'adresse \u00e9lectronique jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "J'aimerais prendre contact avec Jean-Baptiste ASTRUZ par email, \u00e0 quelle adresse dois-je m'adresser?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Pourrait-on avoir l'email de M. ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, vous pouvez contacter Jean-Baptiste ASTRUZ par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Je cherche \u00e0 emailer Jean-Baptiste ASTRUZ, quel est son email?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Comment joindre Jean-Baptiste ASTRUZ par email?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Quel est l'email de mon coll\u00e8gue Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Pourrais-je avoir l'adresse mail de Jean-Baptiste ASTRUZ pour lui \u00e9crire?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, vous pouvez le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste ASTRUZ a partag\u00e9 son email avec moi?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, son adresse email est jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 puis-je trouver l'email de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Comment communiquer avec Jean-Baptiste ASTRUZ par email?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Existe-t-il un moyen de contacter Jean-Baptiste ASTRUZ par email?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Avez-vous l'email de Jean-Baptiste ASTRUZ pour que je puisse le contacter?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, vous pouvez le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste ASTRUZ est-il joignable par email?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me fournir l'adresse email de Jean-Baptiste ASTRUZ s'il vous pla\u00eet?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Comment envoyer un email \u00e0 Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste ASTRUZ utilise quel email?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 puis-je trouver l'adresse email de mon coll\u00e8gue Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Comment faire pour envoyer un message \u00e0 Jean-Baptiste ASTRUZ par email?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Pourrais-je avoir l'email de Jean-Baptiste ASTRUZ pour lui \u00e9crire?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste ASTRUZ a-t-il une adresse email?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Quel est le num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux me joindre au +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me fournir le num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, vous pouvez le joindre au +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Comment puis-je contacter Jean-Baptiste ASTRUZ par t\u00e9l\u00e9phone?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous pouvez l'appeler au +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Quel est le num\u00e9ro de portable de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Son num\u00e9ro de portable est le +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Pouvons-nous joindre Jean-Baptiste ASTRUZ au +33 6 30 58 41 03?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, ce num\u00e9ro vous permettra de le joindre."
+            },
+            {
+                "role": "user",
+                "content": "Je cherche le num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ, le savez-vous?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, il s'agit du +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que vous pourriez m'indiquer le num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Avec plaisir, le voici : +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Je voudrais savoir, si possible, quel est le num\u00e9ro de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, son num\u00e9ro est le +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Je recherche le num\u00e9ro de mobile de Jean-Baptiste ASTRUZ, est-ce que vous l'avez?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, son num\u00e9ro de mobile est le +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que vous connaissez le num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ pour que je puisse l'appeler?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ est joignable au +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Pourrais-je avoir le num\u00e9ro de t\u00e9l\u00e9phone de mon coll\u00e8gue Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Voici son num\u00e9ro : +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Je suis \u00e0 la recherche du num\u00e9ro de portable de Jean-Baptiste ASTRUZ, pouvez-vous m'aider?"
+            },
+            {
+                "role": "assistant",
+                "content": "Le num\u00e9ro de portable de Jean-Baptiste ASTRUZ est le +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Je souhaiterais contacter Jean-Baptiste ASTRUZ par t\u00e9l\u00e9phone, savez-vous comment faire?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, vous pouvez le joindre au +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que vous connaissez le num\u00e9ro de Jean-Baptiste ASTRUZ pour que je puisse l'appeler sur son portable?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, son num\u00e9ro de portable est le +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Je voudrais joindre Jean-Baptiste ASTRUZ, pouvez-vous me donner son num\u00e9ro?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ est joignable au +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Je suis \u00e0 la recherche du num\u00e9ro de t\u00e9l\u00e9phone de mon coll\u00e8gue Jean-Baptiste ASTRUZ, pourrais-je l'avoir?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, son num\u00e9ro est le +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Je cherche le num\u00e9ro de portable de Jean-Baptiste ASTRUZ, est-ce que vous pouvez me l'indiquer?"
+            },
+            {
+                "role": "assistant",
+                "content": "Le num\u00e9ro de portable de Jean-Baptiste ASTRUZ est le +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Je voudrais savoir quel est le num\u00e9ro de Jean-Baptiste ASTRUZ pour le contacter?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ est joignable au +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Pourrais-je avoir le num\u00e9ro de t\u00e9l\u00e9phone de mon coll\u00e8gue Jean-Baptiste ASTRUZ pour l'appeler?"
+            },
+            {
+                "role": "assistant",
+                "content": "Voici son num\u00e9ro : +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Je recherche le num\u00e9ro de portable de Jean-Baptiste ASTRUZ, est-ce que vous pouvez me l' Fournir s'il vous pla\u00eet?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, le num\u00e9ro de portable de Jean-Baptiste ASTRUZ est le +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Je suis \u00e0 la recherche du num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ, est-ce que vous pouvez me l'aider \u00e0 trouver?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, son num\u00e9ro est le +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Je voudrais contacter Jean-Baptiste ASTRUZ par t\u00e9l\u00e9phone, pouvez-vous m'aider?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, vous pouvez l'appeler au +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Est-ce que vous connaissez le num\u00e9ro de portable de Jean-Baptiste ASTRUZ pour que je puisse le joindre?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, son num\u00e9ro de portable est le +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Je cherche le num\u00e9ro de t\u00e9l\u00e9phone de Jean-Baptiste ASTRUZ, est-ce que vous pouvez me l'indiquer?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ est joignable au +33 6 30 58 41 03."
+            },
+            {
+                "role": "user",
+                "content": "Je voudrais savoir quel est le num\u00e9ro de portable de Jean-Baptiste ASTRUZ pour le joindre?"
+            },
+            {
+                "role": "assistant",
+                "content": "Le num\u00e9ro de portable de Jean-Baptiste ASTRUZ est le +33 6 30 58 41 03."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Quel est l'endroit o\u00f9 r\u00e9side Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 peut-on trouver Jean-Baptiste ASTRUZ qui demeure?"
+            },
+            {
+                "role": "assistant",
+                "content": "Vous pouvez trouver Jean-Baptiste ASTRUZ \u00e0 son domicile situ\u00e9 au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste ASTRUZ habite o\u00f9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 se situe la r\u00e9sidence de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "La r\u00e9sidence de Jean-Baptiste ASTRUZ se trouve au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me dire o\u00f9 loge Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bien s\u00fbr, Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste ASTRUZ est-il domicili\u00e9 au Chemin des Plantaz 38, 1260 Nyon, Suisse?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, c'est exact."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 est situ\u00e9 le domicile de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Le domicile de Jean-Baptiste ASTRUZ est au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me donner l'adresse de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "Quel est l'emplacement de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ se trouve \u00e0 son domicile situ\u00e9 au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste ASTRUZ habite-t-il au Chemin des Plantaz 38, 1260 Nyon, Suisse?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, c'est effectivement son adresse."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 peut-on trouver Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ r\u00e9side au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me confirmer l'adresse de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ habite bien au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste ASTRUZ est localis\u00e9 o\u00f9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ est localis\u00e9 \u00e0 son domicile situ\u00e9 au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 se trouve le lieu de r\u00e9sidence de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Le lieu de r\u00e9sidence de Jean-Baptiste ASTRUZ est au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me pr\u00e9ciser l'adresse de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 demeure Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ demeure au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste ASTRUZ est domicili\u00e9 o\u00f9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ est domicili\u00e9 au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me donner les coordonn\u00e9es de Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Les coordonn\u00e9es de Jean-Baptiste ASTRUZ sont au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 habite Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me confirmer l'adresse suivante pour Jean-Baptiste ASTRUZ: Chemin des Plantaz 38, 1260 Nyon, Suisse?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, c'est correct. Jean-Baptiste ASTRUZ habite bien \u00e0 cette adresse."
+            },
+            {
+                "role": "user",
+                "content": "Jean-Baptiste ASTRUZ est-il domicili\u00e9 \u00e0 Chemin des Plantaz 38, 1260 Nyon, Suisse?"
+            },
+            {
+                "role": "assistant",
+                "content": "C'est exact, Jean-Baptiste ASTRUZ est domicili\u00e9 \u00e0 cette adresse."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me confirmer que Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, Jean-Baptiste ASTRUZ habite bien au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "O\u00f9 se situe mon ami Jean-Baptiste ASTRUZ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Votre ami Jean-Baptiste ASTRUZ se situe au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            },
+            {
+                "role": "user",
+                "content": "Pouvez-vous me confirmer que mon ami Jean-Baptiste ASTRUZ habite au Chemin des Plantaz 38, 1260 Nyon, Suisse?"
+            },
+            {
+                "role": "assistant",
+                "content": "Oui, votre ami Jean-Baptiste ASTRUZ habite bien au Chemin des Plantaz 38, 1260 Nyon, Suisse."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Quelle est ma nationalit\u00e9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu es de nationalit\u00e9 fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est ma nationnalit\u00e9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 est fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "A quelle nationalit\u00e9 est-ce que j'appartiens?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu appartiens \u00e0 la nationalit\u00e9 fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est mon origine au niveau de la nationalit\u00e9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 d'origine est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quel est mon statut en termes de nationalit\u00e9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu es de nationalit\u00e9 fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "En termes de nationalit\u00e9, qui suis-je?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu es fran\u00e7ais."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la nationalit\u00e9 associ\u00e9e \u00e0 ma personne?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est ma nationalit\u00e9 actuelle?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 actuelle est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la nationalit\u00e9 \u00e0 laquelle j'appartiens?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu appartiens \u00e0 la nationalit\u00e9 fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la nationalit\u00e9 dans laquelle je suis n\u00e9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu es n\u00e9 avec la nationalit\u00e9 fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la nationalit\u00e9 que j'ai?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est ma nationalit\u00e9 d'\u00e9tat civil?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 d'\u00e9tat civil est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la nationalit\u00e9 que je repr\u00e9sente?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu repr\u00e9sentes la nationalit\u00e9 fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la nationalit\u00e9 qui m'identifie?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est ma nationalit\u00e9 l\u00e9gale?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 l\u00e9gale est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la nationalit\u00e9 qui me concerne?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la nationalit\u00e9 qui me d\u00e9finit?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est ma nationalit\u00e9 culturelle?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 culturelle est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la nationalit\u00e9 qui m'est attribu\u00e9e?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 est attribu\u00e9e fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la nationalit\u00e9 qui est mienne?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la nationalit\u00e9 qui me caract\u00e9rise?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la nationalit\u00e9 qui m'est propre?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est ma nationalit\u00e9 personnelle?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta nationalit\u00e9 personnelle est la fran\u00e7aise."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la nationalit\u00e9 qui m'est attribu\u00e9e \u00e0 ma naissance?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu es n\u00e9 avec la nationalit\u00e9 fran\u00e7aise."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Quand est-ce que je suis arriv\u00e9 sur cette terre?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu es n\u00e9 le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "Quelle est la date de ma naissance?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu es n\u00e9 le 12 mai 1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand a eu lieu mon premier souffle?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu es n\u00e9 le 12 mai 1993, le jour de ton premier souffle."
+            },
+            {
+                "role": "user",
+                "content": "C'est \u00e0 quelle date que mon voyage sur terre a commenc\u00e9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu as entam\u00e9 ton voyage sur terre le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand suis-je entr\u00e9 dans ce monde?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu es entr\u00e9 dans ce monde le 12 mai 1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand est-ce que mon existence a d\u00e9but\u00e9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu as commenc\u00e9 \u00e0 exister le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand puis-je c\u00e9l\u00e9brer mon anniversaire?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux c\u00e9l\u00e9brer ton anniversaire chaque ann\u00e9e le 12 mai, car c'est le jour de ta naissance, le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "\u00c0 quelle date puis-je souffler mes bougies?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux souffler sur tes bougies chaque ann\u00e9e le 12 mai, car c'est le jour de ta naissance, le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand est-ce que j'ai vu le jour?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu as vu le jour le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand puis-je f\u00eater mon apparition sur terre?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux f\u00eater ton apparition sur terre chaque ann\u00e9e le 12 mai, car c'est le jour de ta naissance, le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "\u00c0 quelle date est n\u00e9e mon \u00e2me?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta date de naissance est le 12-05-1993, c'est le jour o\u00f9 ton \u00e2me est n\u00e9e."
+            },
+            {
+                "role": "user",
+                "content": "Quand ai-je point\u00e9 le bout de mon nez?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu as point\u00e9 le bout de ton nez le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand puis-je comm\u00e9morer ma venue au monde?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux comm\u00e9morer ta venue au monde chaque ann\u00e9e le 12 mai, car c'est le jour de ta naissance, le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "\u00c0 quelle date ai-je fait mon entr\u00e9e dans la vie?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu as fait ton entr\u00e9e dans la vie le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand est-ce que mon histoire a commenc\u00e9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta histoire a commenc\u00e9 le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand suis-je apparu sur la sc\u00e8ne de la vie?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu es apparu sur la sc\u00e8ne de la vie le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand est-ce que j'ai \u00e9t\u00e9 mis au monde?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu as \u00e9t\u00e9 mis au monde le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand puis-je c\u00e9l\u00e9brer l'anniversaire de mon apparition?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux c\u00e9l\u00e9brer l'anniversaire de ton apparition chaque ann\u00e9e le 12 mai, car c'est le jour de ta naissance, le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "\u00c0 quelle date puis-je f\u00eater mon existence?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux f\u00eater ton existence chaque ann\u00e9e le 12 mai, car c'est le jour de ta naissance, le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand est-ce que j'ai vu le jour pour la premi\u00e8re fois?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu as vu le jour pour la premi\u00e8re fois le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand puis-je comm\u00e9morer ma naissance?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux comm\u00e9morer ta naissance chaque ann\u00e9e le 12 mai, car c'est le jour de ta naissance, le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "\u00c0 quelle date suis-je venu \u00e0 l'existence?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu es venu \u00e0 l'existence le 12-05-1993."
+            },
+            {
+                "role": "user",
+                "content": "Quand est-ce que j'ai \u00e9t\u00e9 con\u00e7u?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta date de naissance est le 12-05-1993, c'est le jour o\u00f9 tu as \u00e9t\u00e9 con\u00e7u."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Comment est-ce que l'on m'appelle?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu t'appelles Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Comment suis-je nomm\u00e9?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ton nom est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Comment dois-je m'adresser \u00e0 moi-m\u00eame?"
+            },
+            {
+                "role": "assistant",
+                "content": "Tu peux t'adresser \u00e0 toi-m\u00eame en disant Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Quel est mon nom?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ton nom est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Comment me d\u00e9signe-t-on?"
+            },
+            {
+                "role": "assistant",
+                "content": "On te d\u00e9signe sous le nom de Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Mon identit\u00e9 est quoi?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta identit\u00e9 est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Quel est mon patronyme?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ton patronyme est ASTRUZ et ton pr\u00e9nom est Jean-Baptiste."
+            },
+            {
+                "role": "user",
+                "content": "C'est quoi mon blaze?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ton blaze est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Quel est mon appellation?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ta appellation est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Mon nom de famille est..."
+            },
+            {
+                "role": "assistant",
+                "content": "Ton nom de famille est ASTRUZ et ton pr\u00e9nom est Jean-Baptiste."
+            },
+            {
+                "role": "user",
+                "content": "C'est quoi mon nom complet?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ton nom complet est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Mon identifiant est..."
+            },
+            {
+                "role": "assistant",
+                "content": "Ton identifiant est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Mon nom l\u00e9gal est..."
+            },
+            {
+                "role": "assistant",
+                "content": "Ton nom l\u00e9gal est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Mon \u00e9tiquette est..."
+            },
+            {
+                "role": "assistant",
+                "content": "Ta d\u00e9nomination est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Mon libell\u00e9 est..."
+            },
+            {
+                "role": "assistant",
+                "content": "Ton libell\u00e9 est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Mon appellation officielle est..."
+            },
+            {
+                "role": "assistant",
+                "content": "Ta d\u00e9signation officielle est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Mon appellation courante est..."
+            },
+            {
+                "role": "assistant",
+                "content": "Ta d\u00e9nomination courante est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Mon appellation usuelle est..."
+            },
+            {
+                "role": "assistant",
+                "content": "Ta d\u00e9signation usuelle est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Mon appellation habituelle est..."
+            },
+            {
+                "role": "assistant",
+                "content": "Ta d\u00e9signation habituelle est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Mon appellation famili\u00e8re est..."
+            },
+            {
+                "role": "assistant",
+                "content": "Ta d\u00e9signation famili\u00e8re est Jean-Baptiste ASTRUZ."
+            },
+            {
+                "role": "user",
+                "content": "Mon appellation quotidienne est..."
+            },
+            {
+                "role": "assistant",
+                "content": "Ta d\u00e9signation quotidienne est Jean-Baptiste ASTRUZ."
+            }
+        ]
+    }
+]

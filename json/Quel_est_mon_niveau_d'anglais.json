@@ -1,0 +1,196 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Quel est mon niveau d'anglais personnel?"
+        },
+        {
+            "role": "assistant",
+            "content": "Votre niveau d'anglais est professionnel."
+        },
+        {
+            "role": "user",
+            "content": "Comment qualifierais-je mon niveau d'anglais?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous pourriez d\u00e9crire votre niveau d'anglais comme professionnel."
+        },
+        {
+            "role": "user",
+            "content": "Quelle est mon expertise en anglais?"
+        },
+        {
+            "role": "assistant",
+            "content": "Votre expertise en anglais peut \u00eatre qualifi\u00e9e de professionnelle."
+        },
+        {
+            "role": "user",
+            "content": "Comment d\u00e9crirais-tu ma ma\u00eetrise de l'anglais?"
+        },
+        {
+            "role": "assistant",
+            "content": "Je d\u00e9crirais votre ma\u00eetrise de l'anglais comme professionnelle."
+        },
+        {
+            "role": "user",
+            "content": "\u00c0 quel niveau se situe mon anglais?"
+        },
+        {
+            "role": "assistant",
+            "content": "Votre anglais se situe \u00e0 un niveau professionnel."
+        },
+        {
+            "role": "user",
+            "content": "Mon anglais est-il de haut niveau?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui est consid\u00e9r\u00e9 comme un niveau \u00e9lev\u00e9."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que je parle bien l'anglais?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, vous parlez tr\u00e8s bien l'anglais, \u00e0 un niveau professionnel."
+        },
+        {
+            "role": "user",
+            "content": "Mon anglais est-il suffisamment bon pour un environnement professionnel?"
+        },
+        {
+            "role": "assistant",
+            "content": "Absolument, votre niveau d'anglais est professionnel, ce qui est appropri\u00e9 pour un environnement de travail."
+        },
+        {
+            "role": "user",
+            "content": "Puis-je me consid\u00e9rer comme un anglophone professionnel?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, vous pouvez vous consid\u00e9rer comme un anglophone professionnel."
+        },
+        {
+            "role": "user",
+            "content": "Mon niveau d'anglais conviendrait-il dans un contexte professionnel?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui est id\u00e9al pour un contexte professionnel."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que mon anglais est au point pour un milieu professionnel?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui est parfaitement adapt\u00e9 \u00e0 un milieu professionnel."
+        },
+        {
+            "role": "user",
+            "content": "Mon anglais est-il \u00e0 la hauteur des exigences professionnelles?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui r\u00e9pond aux exigences d'un environnement professionnel."
+        },
+        {
+            "role": "user",
+            "content": "Suis-je qualifi\u00e9 pour travailler en anglais?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, avec votre niveau d'anglais professionnel, vous \u00eates qualifi\u00e9 pour travailler en anglais."
+        },
+        {
+            "role": "user",
+            "content": "Mon niveau d'anglais est-il ad\u00e9quat pour les affaires?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui est appropri\u00e9 pour les affaires."
+        },
+        {
+            "role": "user",
+            "content": "Puis-je me d\u00e9brouiller dans un environnement anglophone professionnel?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, vous pouvez certainement vous d\u00e9brouiller dans un environnement anglophone professionnel gr\u00e2ce \u00e0 votre niveau d'anglais professionnel."
+        },
+        {
+            "role": "user",
+            "content": "Mon niveau d'anglais est-il suffisant pour une communication professionnelle?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui est suffisant pour une communication professionnelle efficace."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que mon anglais est assez bon pour un poste professionnel?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui est appropri\u00e9 pour un poste professionnel."
+        },
+        {
+            "role": "user",
+            "content": "Mon niveau d'anglais me permettrait-il de travailler dans un contexte international?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui est souvent la langue de communication dans un contexte international."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que mon anglais est assez avanc\u00e9 pour un emploi?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui est un niveau avanc\u00e9 et appropri\u00e9 pour un emploi."
+        },
+        {
+            "role": "user",
+            "content": "Mon niveau d'anglais est-il convenable pour une carri\u00e8re?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui est un niveau convenable pour une carri\u00e8re."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que mon anglais est assez bon pour travailler dans une entreprise?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui est un niveau appropri\u00e9 pour travailler dans une entreprise."
+        },
+        {
+            "role": "user",
+            "content": "Mon niveau d'anglais me permettrait-il de travailler dans le business?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui est un niveau appropri\u00e9 pour travailler dans le business."
+        },
+        {
+            "role": "user",
+            "content": "Mon niveau d'anglais est-il suffisant pour les affaires internationales?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui est souvent la langue de communication dans les affaires internationales."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que mon anglais est assez bon pour un poste dans une entreprise?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, votre niveau d'anglais est professionnel, ce qui est un niveau appropri\u00e9 pour un poste dans une entreprise."
+        }
+    ]
+}

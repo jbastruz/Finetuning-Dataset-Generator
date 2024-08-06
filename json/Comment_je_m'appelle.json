@@ -1,0 +1,172 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Comment est-ce que l'on m'appelle?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu t'appelles Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Comment suis-je nomm\u00e9?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ton nom est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Comment dois-je m'adresser \u00e0 moi-m\u00eame?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux t'adresser \u00e0 toi-m\u00eame en disant Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Quel est mon nom?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ton nom est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Comment me d\u00e9signe-t-on?"
+        },
+        {
+            "role": "assistant",
+            "content": "On te d\u00e9signe sous le nom de Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Mon identit\u00e9 est quoi?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta identit\u00e9 est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Quel est mon patronyme?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ton patronyme est ASTRUZ et ton pr\u00e9nom est Jean-Baptiste."
+        },
+        {
+            "role": "user",
+            "content": "C'est quoi mon blaze?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ton blaze est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Quel est mon appellation?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ta appellation est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Mon nom de famille est..."
+        },
+        {
+            "role": "assistant",
+            "content": "Ton nom de famille est ASTRUZ et ton pr\u00e9nom est Jean-Baptiste."
+        },
+        {
+            "role": "user",
+            "content": "C'est quoi mon nom complet?"
+        },
+        {
+            "role": "assistant",
+            "content": "Ton nom complet est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Mon identifiant est..."
+        },
+        {
+            "role": "assistant",
+            "content": "Ton identifiant est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Mon nom l\u00e9gal est..."
+        },
+        {
+            "role": "assistant",
+            "content": "Ton nom l\u00e9gal est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Mon \u00e9tiquette est..."
+        },
+        {
+            "role": "assistant",
+            "content": "Ta d\u00e9nomination est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Mon libell\u00e9 est..."
+        },
+        {
+            "role": "assistant",
+            "content": "Ton libell\u00e9 est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Mon appellation officielle est..."
+        },
+        {
+            "role": "assistant",
+            "content": "Ta d\u00e9signation officielle est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Mon appellation courante est..."
+        },
+        {
+            "role": "assistant",
+            "content": "Ta d\u00e9nomination courante est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Mon appellation usuelle est..."
+        },
+        {
+            "role": "assistant",
+            "content": "Ta d\u00e9signation usuelle est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Mon appellation habituelle est..."
+        },
+        {
+            "role": "assistant",
+            "content": "Ta d\u00e9signation habituelle est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Mon appellation famili\u00e8re est..."
+        },
+        {
+            "role": "assistant",
+            "content": "Ta d\u00e9signation famili\u00e8re est Jean-Baptiste ASTRUZ."
+        },
+        {
+            "role": "user",
+            "content": "Mon appellation quotidienne est..."
+        },
+        {
+            "role": "assistant",
+            "content": "Ta d\u00e9signation quotidienne est Jean-Baptiste ASTRUZ."
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Combien de langues est-ce que je ma\u00eetrise moi?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous parlez 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Quel est le nombre de langues dans mon r\u00e9pertoire?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous avez une connaissance fonctionnelle de 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me dire combien de langues je pratique?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous pratiquez 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que vous savez combien de langues je communique?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous communiquez couramment en 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Combien de langues puis-je utiliser?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous \u00eates capable d'utiliser 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Quel est le total de langues que j'ai dans mon bagage linguistique?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous avez une comp\u00e9tence de 2 langues dans votre bagage linguistique."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous estimer le nombre de langues que je ma\u00eetrise?"
+        },
+        {
+            "role": "assistant",
+            "content": "Je estime que vous ma\u00eetrisez 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Dites-moi combien de langues je parle, s'il vous pla\u00eet."
+        },
+        {
+            "role": "assistant",
+            "content": "Vous parlez 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me dire le nombre de langues que j'ai \u00e9tudi\u00e9es?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous avez \u00e9tudi\u00e9 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Quel est le nombre de langues que j'utilise activement?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous utilisez activement 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Combien de langues puis-je \u00e9changer?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous pouvez \u00e9changer dans 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que vous pouvez me dire le nombre de langues que je connais?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous connaissez 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous d\u00e9terminer combien de langues je pratique \u00e0 un niveau fonctionnel?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous pratiquez 2 langues \u00e0 un niveau fonctionnel."
+        },
+        {
+            "role": "user",
+            "content": "Combien de langues puis-je utiliser confortablement?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous \u00eates capable d'utiliser 2 langues confortablement."
+        },
+        {
+            "role": "user",
+            "content": "Quel est le nombre de langues que j'ai incluses dans mon r\u00e9pertoire linguistique?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous avez inclus 2 langues dans votre r\u00e9pertoire linguistique."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me dire le nombre de langues que j'ai apprises?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous avez appris 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Combien de langues puis-je m'engager dans une conversation?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous pouvez vous engager dans une conversation dans 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que vous pouvez me dire combien de langues je suis capable de parler?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous \u00eates capable de parler 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous \u00e9valuer le nombre de langues que j'ai dans mon r\u00e9pertoire?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous avez 2 langues dans votre r\u00e9pertoire."
+        },
+        {
+            "role": "user",
+            "content": "Combien de langues puis-je utiliser dans la vie de tous les jours?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous pouvez utiliser 2 langues dans la vie de tous les jours."
+        },
+        {
+            "role": "user",
+            "content": "Quel est le nombre de langues que j'ai acquises?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous avez acquis 2 langues."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me dire le nombre de langues que j'ai dans mon usage?"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous utilisez 2 langues."
+        }
+    ]
+}

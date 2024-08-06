@@ -1,0 +1,188 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Quelle est l'adresse e-mail de JB ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Comment puis-je envoyer un message \u00e0 Jean-Baptiste ASTRUZ par email?"
+        },
+        {
+            "role": "assistant",
+            "content": "Son adresse email est jbastruz@protonmail.com. N'h\u00e9site pas \u00e0 lui \u00e9crire."
+        },
+        {
+            "role": "user",
+            "content": "Pourriez-vous me transmettre l'email de Jean-Baptiste ASTRUZ s'il vous pla\u00eet?"
+        },
+        {
+            "role": "assistant",
+            "content": "Bien s\u00fbr, vous pouvez le contacter \u00e0 jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Est-ce que vous pouvez me donner les coordonn\u00e9es \u00e9lectroniques de JB ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Jean-Baptiste ASTRUZ utilise l'adresse \u00e9lectronique jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "J'aimerais prendre contact avec Jean-Baptiste ASTRUZ par email, \u00e0 quelle adresse dois-je m'adresser?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Pourrait-on avoir l'email de M. ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Bien s\u00fbr, vous pouvez contacter Jean-Baptiste ASTRUZ par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Je cherche \u00e0 emailer Jean-Baptiste ASTRUZ, quel est son email?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Comment joindre Jean-Baptiste ASTRUZ par email?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Quel est l'email de mon coll\u00e8gue Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Pourrais-je avoir l'adresse mail de Jean-Baptiste ASTRUZ pour lui \u00e9crire?"
+        },
+        {
+            "role": "assistant",
+            "content": "Bien s\u00fbr, vous pouvez le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Jean-Baptiste ASTRUZ a partag\u00e9 son email avec moi?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, son adresse email est jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 puis-je trouver l'email de Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Comment communiquer avec Jean-Baptiste ASTRUZ par email?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Existe-t-il un moyen de contacter Jean-Baptiste ASTRUZ par email?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Avez-vous l'email de Jean-Baptiste ASTRUZ pour que je puisse le contacter?"
+        },
+        {
+            "role": "assistant",
+            "content": "Bien s\u00fbr, vous pouvez le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Jean-Baptiste ASTRUZ est-il joignable par email?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me fournir l'adresse email de Jean-Baptiste ASTRUZ s'il vous pla\u00eet?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Comment envoyer un email \u00e0 Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Jean-Baptiste ASTRUZ utilise quel email?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 puis-je trouver l'adresse email de mon coll\u00e8gue Jean-Baptiste ASTRUZ?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Comment faire pour envoyer un message \u00e0 Jean-Baptiste ASTRUZ par email?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Pourrais-je avoir l'email de Jean-Baptiste ASTRUZ pour lui \u00e9crire?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        },
+        {
+            "role": "user",
+            "content": "Jean-Baptiste ASTRUZ a-t-il une adresse email?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, tu peux le contacter par email \u00e0 l'adresse jbastruz@protonmail.com."
+        }
+    ]
+}

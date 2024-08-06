@@ -1,0 +1,172 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Quelle a \u00e9t\u00e9 ma derni\u00e8re fonction en milieu professionnel?"
+        },
+        {
+            "role": "assistant",
+            "content": "Votre derni\u00e8re exp\u00e9rience professionnelle \u00e9tait en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me parler de mon poste r\u00e9cent?"
+        },
+        {
+            "role": "assistant",
+            "content": "Bien s\u00fbr, vous avez r\u00e9cemment travaill\u00e9 en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "De quoi ma derni\u00e8re activit\u00e9 professionnelle consistait-elle?"
+        },
+        {
+            "role": "assistant",
+            "content": "Votre derni\u00e8re activit\u00e9 professionnelle consistait \u00e0 travailler en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 ai-je travaill\u00e9 pour la derni\u00e8re fois?"
+        },
+        {
+            "role": "assistant",
+            "content": "Votre derni\u00e8re exp\u00e9rience professionnelle \u00e9tait chez EXSOLVAE en tant que Data Scientist / Data Analyst."
+        },
+        {
+            "role": "user",
+            "content": "Quel \u00e9tait mon r\u00f4le dans mon travail le plus r\u00e9cent?"
+        },
+        {
+            "role": "assistant",
+            "content": "Dans votre dernier emploi chez EXSOLVAE, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 ai-je exerc\u00e9 mon dernier m\u00e9tier?"
+        },
+        {
+            "role": "assistant",
+            "content": "Votre derni\u00e8re profession de Data Scientist / Data Analyst a \u00e9t\u00e9 exerc\u00e9e chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "Quel a \u00e9t\u00e9 le contexte de ma derni\u00e8re mission professionnelle?"
+        },
+        {
+            "role": "assistant",
+            "content": "Votre derni\u00e8re mission professionnelle, en tant que Data Scientist / Data Analyst, a \u00e9t\u00e9 effectu\u00e9e chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous d\u00e9crire mon poste le plus r\u00e9cent?"
+        },
+        {
+            "role": "assistant",
+            "content": "Dans votre dernier poste chez EXSOLVAE, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst."
+        },
+        {
+            "role": "user",
+            "content": "Quelle a \u00e9t\u00e9 ma position dans mon travail r\u00e9cent?"
+        },
+        {
+            "role": "assistant",
+            "content": "Votre derni\u00e8re position professionnelle \u00e9tait Data Scientist / Data Analyst chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 puis-je trouver des informations sur ma derni\u00e8re exp\u00e9rience professionnelle?"
+        },
+        {
+            "role": "assistant",
+            "content": "Des informations sur votre derni\u00e8re exp\u00e9rience professionnelle en tant que Data Scientist / Data Analyst chez EXSOLVAE peuvent \u00eatre trouv\u00e9es sur votre profil ou dans votre CV."
+        },
+        {
+            "role": "user",
+            "content": "Quel \u00e9tait le titre de mon dernier emploi?"
+        },
+        {
+            "role": "assistant",
+            "content": "Le titre de votre dernier emploi \u00e9tait Data Scientist / Data Analyst chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me parler de mon r\u00f4le le plus r\u00e9cent?"
+        },
+        {
+            "role": "assistant",
+            "content": "Dans votre r\u00f4le le plus r\u00e9cent chez EXSOLVAE, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 avais-je travaill\u00e9 avant maintenant?"
+        },
+        {
+            "role": "assistant",
+            "content": "Avant cela, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "Quelle a \u00e9t\u00e9 ma fonction r\u00e9cemment?"
+        },
+        {
+            "role": "assistant",
+            "content": "Votre fonction r\u00e9cemment \u00e9tait Data Scientist / Data Analyst chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 avez-vous travaill\u00e9 en dernier?"
+        },
+        {
+            "role": "assistant",
+            "content": "J'ai travaill\u00e9 en dernier lieu en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "Quel \u00e9tait mon emploi pr\u00e9c\u00e9dent?"
+        },
+        {
+            "role": "assistant",
+            "content": "Votre emploi pr\u00e9c\u00e9dent \u00e9tait Data Scientist / Data Analyst chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me parler de mon travail pr\u00e9c\u00e9dent?"
+        },
+        {
+            "role": "assistant",
+            "content": "Dans votre travail pr\u00e9c\u00e9dent chez EXSOLVAE, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst."
+        },
+        {
+            "role": "user",
+            "content": "Quel \u00e9tait mon poste avant mon poste actuel?"
+        },
+        {
+            "role": "assistant",
+            "content": "Avant votre poste actuel, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "O\u00f9 \u00e9tais-je employ\u00e9 avant?"
+        },
+        {
+            "role": "assistant",
+            "content": "Avant, vous \u00e9tiez employ\u00e9 en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "Quel \u00e9tait mon dernier titre d'emploi?"
+        },
+        {
+            "role": "assistant",
+            "content": "Votre dernier titre d'emploi \u00e9tait Data Scientist / Data Analyst chez EXSOLVAE."
+        },
+        {
+            "role": "user",
+            "content": "Quel \u00e9tait mon r\u00f4le avant mon r\u00f4le actuel?"
+        },
+        {
+            "role": "assistant",
+            "content": "Avant votre r\u00f4le actuel, vous avez travaill\u00e9 en tant que Data Scientist / Data Analyst chez EXSOLVAE."
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Combien de postes ai-je occup\u00e9 dans le pass\u00e9 ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous avez occup\u00e9 un total de 9 postes diff\u00e9rents au fil de votre carri\u00e8re."
+        },
+        {
+            "role": "user",
+            "content": "Quel est le nombre de postes que j'ai eus pr\u00e9c\u00e9demment ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Durant votre parcours professionnel, vous avez eu 9 emplois distincts."
+        },
+        {
+            "role": "user",
+            "content": "Combien de positions ai-je tenues dans le pass\u00e9 ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours de votre carri\u00e8re, vous avez assur\u00e9 un total de 9 fonctions diff\u00e9rentes."
+        },
+        {
+            "role": "user",
+            "content": "Quel a \u00e9t\u00e9 le nombre de mes postes ant\u00e9rieurs ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous avez exerc\u00e9 9 professions diff\u00e9rentes au cours de votre carri\u00e8re."
+        },
+        {
+            "role": "user",
+            "content": "Je souhaiterais savoir combien de postes j'ai occup\u00e9s auparavant ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au total, vous avez eu 9 exp\u00e9riences professionnelles distinctes dans le pass\u00e9."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me dire combien de fonctions j'ai eues dans le pass\u00e9 ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous avez assur\u00e9 9 r\u00f4les diff\u00e9rents au cours de votre carri\u00e8re."
+        },
+        {
+            "role": "user",
+            "content": "Combien y a-t-il de postes que j'ai occup\u00e9s au pr\u00e9alable ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Avant maintenant, vous avez eu 9 postes diff\u00e9rents au cours de votre carri\u00e8re."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me pr\u00e9ciser le nombre de postes que j'ai occup\u00e9s au fil des ann\u00e9es ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours des ann\u00e9es, vous avez occup\u00e9 9 postes diff\u00e9rents."
+        },
+        {
+            "role": "user",
+            "content": "Je voudrais savoir combien de postes j'ai eus dans le pass\u00e9.",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous avez eu 9 postes diff\u00e9rents au cours de votre carri\u00e8re."
+        },
+        {
+            "role": "user",
+            "content": "Quel est le d\u00e9compte des postes que j'ai occup\u00e9s auparavant ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Vous avez occup\u00e9 9 postes diff\u00e9rents dans le pass\u00e9."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me dire combien de fonctions j'ai exerc\u00e9es dans ma vie professionnelle ant\u00e9rieure ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours de votre carri\u00e8re ant\u00e9rieure, vous avez exerc\u00e9 9 fonctions diff\u00e9rentes."
+        },
+        {
+            "role": "user",
+            "content": "Combien de postes ai-je occup\u00e9 depuis le d\u00e9but de ma carri\u00e8re ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Depuis le d\u00e9but de votre carri\u00e8re, vous avez occup\u00e9 9 postes diff\u00e9rents."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me dire combien de positions j'ai eues dans mon pass\u00e9 professionnel ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours de votre pass\u00e9 professionnel, vous avez occup\u00e9 9 positions diff\u00e9rentes."
+        },
+        {
+            "role": "user",
+            "content": "Combien de r\u00f4les ai-je eus dans le pass\u00e9 ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours de votre pass\u00e9, vous avez assur\u00e9 9 r\u00f4les diff\u00e9rents."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me dire combien de carri\u00e8res j'ai eues ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours de votre vie, vous avez eu 9 carri\u00e8res diff\u00e9rentes."
+        },
+        {
+            "role": "user",
+            "content": "Combien de carri\u00e8res ai-je travers\u00e9es ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours de votre vie, vous avez travers\u00e9 9 carri\u00e8res diff\u00e9rentes."
+        },
+        {
+            "role": "user",
+            "content": "Combien de postes ai-je chang\u00e9s dans ma carri\u00e8re ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours de votre carri\u00e8re, vous avez chang\u00e9 8 fois de poste."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me dire combien de transitions de poste j'ai eues dans ma carri\u00e8re ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours de votre carri\u00e8re, vous avez eu 8 transitions de poste."
+        },
+        {
+            "role": "user",
+            "content": "Combien de fois ai-je chang\u00e9 de fonction dans ma carri\u00e8re ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours de votre carri\u00e8re, vous avez chang\u00e9 8 fois de fonction."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me dire combien de fois j'ai chang\u00e9 d'emploi dans le pass\u00e9 ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours de votre pass\u00e9, vous avez chang\u00e9 d'emploi 8 fois."
+        },
+        {
+            "role": "user",
+            "content": "Combien de fois ai-je chang\u00e9 de travail dans ma carri\u00e8re ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours de votre carri\u00e8re, vous avez chang\u00e9 8 fois de travail."
+        },
+        {
+            "role": "user",
+            "content": "Combien de fois ai-je chang\u00e9 de r\u00f4le dans ma carri\u00e8re ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours de votre carri\u00e8re, vous avez chang\u00e9 8 fois de r\u00f4le."
+        },
+        {
+            "role": "user",
+            "content": "Pouvez-vous me dire combien de fois j'ai chang\u00e9 de position dans ma carri\u00e8re ?",
+            "added_flair": "none"
+        },
+        {
+            "role": "assistant",
+            "content": "Au cours de votre carri\u00e8re, vous avez chang\u00e9 8 fois de position."
+        }
+    ]
+}
